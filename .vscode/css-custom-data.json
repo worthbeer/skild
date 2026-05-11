@@ -1,0 +1,13 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    { "name": "@apply" },
+    { "name": "@theme" },
+    { "name": "@utility" },
+    { "name": "@plugin" },
+    { "name": "@custom-variant" },
+    { "name": "@source" },
+    { "name": "@variant" },
+    { "name": "@slot" }
+  ]
+}
